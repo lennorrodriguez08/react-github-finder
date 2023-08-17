@@ -1,3 +1,0 @@
-const alertReducer = (state, action) => {
-
-}
